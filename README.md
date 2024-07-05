@@ -62,3 +62,10 @@ pipeline {
         }
     }
 }
+
+```
+## Plus de détails : 
+https://drive.google.com/file/d/19WVZXUi9gGm7IFkXXtI0iWoTiUDu-7de/view?usp=sharing
+
+
+
